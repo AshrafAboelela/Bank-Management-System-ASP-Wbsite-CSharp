@@ -1,0 +1,6 @@
+C:\Users\ash\Desktop\BMS Web Project\BMS\BMS\bin\BMS.dll.config
+C:\Users\ash\Desktop\BMS Web Project\BMS\BMS\bin\BMS.dll
+C:\Users\ash\Desktop\BMS Web Project\BMS\BMS\bin\BMS.pdb
+C:\Users\ash\Desktop\BMS Web Project\BMS\BMS\obj\Debug\BMS.csprojResolveAssemblyReference.cache
+C:\Users\ash\Desktop\BMS Web Project\BMS\BMS\obj\Debug\BMS.dll
+C:\Users\ash\Desktop\BMS Web Project\BMS\BMS\obj\Debug\BMS.pdb

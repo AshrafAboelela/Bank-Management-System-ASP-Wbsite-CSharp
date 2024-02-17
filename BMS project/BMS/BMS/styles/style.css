@@ -1,0 +1,146 @@
+
+
+body { 
+	color: #474747;
+	font-family: Arial, Verdana, Helvetica, sans-serif; 
+	font-size: 14px; 
+	line-height: 25px; 
+	margin: 0;
+	min-width: 700px;
+	padding: 0 13px 0 30px;
+    
+}
+
+
+#clientarea {
+	position: relative;
+    text-decoration: none;
+    top: 9px;
+    left: 10px;
+    width: 557px;
+}
+#header {
+	position: relative;
+}
+
+#header ul {
+	list-style: none;
+	margin: 0 auto;
+	padding: 35px 13px 0;
+	width: 934px;
+}
+
+#header ul li {
+	float: left;
+	height: 30px;
+	padding: 0 13px;
+}
+
+#header ul li a {
+	color: #474747;
+	display: block;
+    text-decoration: none;
+    text-transform: lowercase;
+}
+
+#header ul li a span {
+	display: block;
+	cursor: pointer;
+	height: 30px;
+    line-height: 30px;
+    padding: 0 20px;
+}
+
+#header ul li a:hover {
+	color: #AD0B87;
+}
+
+#header ul li.current a {
+	background: url(../images/menu-right-hover.gif) no-repeat top right;
+}
+
+#header ul li.current a span {
+	background: url(../images/menu-left-hover.gif) no-repeat top left;
+	color: #facdec;
+}
+
+
+#footer {
+	background: #f5ffda;
+	border-top: 1px solid #bfcb9b;
+	margin-top: 100px;
+}
+
+ #footer div {
+overflow: hidden;
+padding: 0;
+position: relative;
+width: auto;
+
+}
+#footer  div#connect {
+	float: left;
+    width: 300px;
+    top: 0px;
+}
+
+#footer div#connect span {
+	color: #a8b78c;
+	float: left;
+    font-size: 18px;
+	margin-right: 23px;
+    padding-right: 10px;
+	text-transform: uppercase;
+}
+
+#footer div#connect img {
+	margin-right: 10px;
+}
+
+#footer div.section {
+	float: right;
+	font-size: 12px;
+	padding-bottom: 0;
+	width: 317px;
+    top: 0px;
+    left: -283px;
+}
+
+#footer div.section ul {
+	clear: both;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	right: 0;
+	overflow: hidden;
+}
+
+#footer div.section ul li {
+	border-left: 1px solid #98a780;
+	float: left;
+	padding: 0 7px;
+}
+
+#footer div.section ul li.first {
+	border-left: 0;
+}
+
+#footer div.section ul li a {
+	color: #98A780;
+    display: block;
+    height: 13px;
+    line-height: 11px;
+    text-decoration: none;
+}
+
+#footer div.section ul li.selected a, 
+#footer div.section ul li a:hover {
+	color: #627146;
+}
+
+#footer div.section p {
+	color: #98A780;
+	padding-top: 5px;
+	text-align: right;
+}
